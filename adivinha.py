@@ -7,10 +7,10 @@ import random
 from time import sleep
 
 # Título do Jogo
-print('='*50)
+print('=' * 50)
 msg = 'Jogo da Adivinhação!'
 print(f'{msg:^50}')
-print('='*50)
+print('=' * 50)
 
 acertou = False
 tentativas = 0
