@@ -1,3 +1,3 @@
-# JogoAdivinha.py
+# advinhe-python
 
-❓ Adivinhe o número escolhido pelo computador.
+Adivinhe o número escolhido pelo computador usando Python.
