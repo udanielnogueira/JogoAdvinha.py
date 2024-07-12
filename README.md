@@ -1,3 +1,3 @@
 # advinhe-python
 
-Adivinhe o número escolhido pelo computador usando Python.
+Adivinhe qual número será escolhido pelo computador usando Python.
