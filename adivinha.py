@@ -1,6 +1,6 @@
 """
 O computador vai pensar em um número de 0 e 10. O jogador vai tentar adivinhar até acertar,
-mostrando no final quantos palpites foram necessários para vencer.
+no final serão exibidos quantos palpites foram necessários para vencer.
 """
 
 import random
